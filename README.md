@@ -5,5 +5,5 @@
 - 🔭 Atualmente estou trabalhando em TI - Suporte Técnico
 - 🌱 Atualmente estou aprendendo Desenvolvimento Full Stack
 - 👯 Estou procurando colaborar em Desenvolvimento
-
+- ⚡ Estou cursando Ensino Superior - Ciencias da Computação(UNIGRANDE)
 
