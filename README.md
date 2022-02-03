@@ -1,5 +1,5 @@
-## Olá, me chamo Wellington Oliveira ! ![imgavatar](https://github.com/jwelloliver/jwelloliver/blob/main/avatar.png)
-### Bem vindo ao meu perfil GitHub ! 👋![olaimagem](https://github.com/jwelloliver/jwelloliver/blob/main/oi-e-ola-imagem-animada-0067.gif)
+## Olá, me chamo Wellington Oliveira !
+### Bem vindo ao meu perfil GitHub ! 👋![imgavatar](https://github.com/jwelloliver/jwelloliver/blob/main/avatar.png)
 
 #### Jose Wellington de Oliveira
 - 🔭 Atualmente estou trabalhando em TI - Suporte Técnico
